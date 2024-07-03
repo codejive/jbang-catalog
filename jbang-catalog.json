@@ -1,0 +1,9 @@
+{
+    "aliases": {
+      "jpm": {
+        "script-ref": "https://github.com/codejive/java-jpm/blob/main/src/main/java/org/codejive/jpm/Main.java",
+        "description": "A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle."
+      }
+    },
+    "description": "Codejive JBang scripts"
+  }
