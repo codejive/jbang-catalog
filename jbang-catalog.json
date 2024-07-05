@@ -1,6 +1,10 @@
 {
     "aliases": {
       "jpm": {
+        "script-ref": "org.codejive.jpm:jpm:1.0",
+        "description": "A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle."
+      },
+      "jpm-latest": {
         "script-ref": "https://github.com/codejive/java-jpm/blob/main/src/main/java/org/codejive/jpm/Main.java",
         "description": "A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle."
       }
