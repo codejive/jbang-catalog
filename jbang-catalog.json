@@ -7,6 +7,14 @@
       "jpm-latest": {
         "script-ref": "https://github.com/codejive/java-jpm/blob/main/src/main/java/org/codejive/jpm/Main.java",
         "description": "A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle."
+      },
+      "jvm": {
+        "script-ref": "https://github.com/codejive/java-jvm/blob/main/src/main/java/org/codejive/jvm/Main.java",
+        "description": A command line tool that helps you install and manage multiple Java versions on your machine.."
+      },
+      "jvm-latest": {
+        "script-ref": "https://github.com/codejive/java-jvm/blob/main/src/main/java/org/codejive/jvm/Main.java",
+        "description": A command line tool that helps you install and manage multiple Java versions on your machine.."
       }
     },
     "description": "Codejive JBang scripts"
