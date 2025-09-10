@@ -15,7 +15,7 @@ See the [JBang website](https://jbang.dev/download) for options on how to instal
 
 ### jpm
 
-A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle.
+A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle. See [Jpm website](https://github.com/codejive/java-jpm)
 
  ```
  jbang jpm@codejive
@@ -23,7 +23,7 @@ A simple command line tool, taking inspiration from Node's npm, to manage Maven 
 
 ### jpm-latest
 
-A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle.
+[latest development version] A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle. See [Jpm website](https://github.com/codejive/java-jpm)
 
  ```
  jbang jpm-latest@codejive
@@ -31,7 +31,7 @@ A simple command line tool, taking inspiration from Node's npm, to manage Maven 
 
 ### jvm
 
-A command line tool that helps you install and manage multiple Java versions on your machine..
+A command line tool that helps you install and manage multiple Java versions on your machine. See [Jvm website](https://github.com/codejive/java-jvm)
 
  ```
  jbang jvm@codejive
@@ -39,7 +39,7 @@ A command line tool that helps you install and manage multiple Java versions on 
 
 ### jvm-latest
 
-A command line tool that helps you install and manage multiple Java versions on your machine..
+[latest development version] A command line tool that helps you install and manage multiple Java versions on your machine. See [Jvm website](https://github.com/codejive/java-jvm)
 
  ```
  jbang jvm-latest@codejive
