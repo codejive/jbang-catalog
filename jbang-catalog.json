@@ -2,19 +2,19 @@
     "aliases": {
       "jpm": {
         "script-ref": "org.codejive.jpm:jpm:0.6.2",
-        "description": "A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle."
+        "description": "A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle. See [Jpm website](https://github.com/codejive/java-jpm)"
       },
       "jpm-latest": {
         "script-ref": "https://github.com/codejive/java-jpm/blob/main/src/main/java/org/codejive/jpm/Main.java",
-        "description": "A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle."
+        "description": "[latest development version] A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle. See [Jpm website](https://github.com/codejive/java-jpm)"
       },
       "jvm": {
         "script-ref": "https://github.com/codejive/java-jvm/blob/main/src/main/java/org/codejive/jvm/Main.java",
-        "description": "A command line tool that helps you install and manage multiple Java versions on your machine.."
+        "description": "A command line tool that helps you install and manage multiple Java versions on your machine. See [Jvm website](https://github.com/codejive/java-jvm)"
       },
       "jvm-latest": {
         "script-ref": "https://github.com/codejive/java-jvm/blob/main/src/main/java/org/codejive/jvm/Main.java",
-        "description": "A command line tool that helps you install and manage multiple Java versions on your machine.."
+        "description": "[latest development version] A command line tool that helps you install and manage multiple Java versions on your machine. See [Jvm website](https://github.com/codejive/java-jvm)"
       }
     },
     "description": "Codejive JBang scripts"
