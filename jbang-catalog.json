@@ -1,7 +1,7 @@
 {
     "aliases": {
       "jpm": {
-        "script-ref": "org.codejive.jpm:jpm:0.6.2",
+        "script-ref": "org.codejive.jpm:jpm:0.6.3",
         "description": "A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle. See [Jpm website](https://github.com/codejive/java-jpm)"
       },
       "jpm-latest": {
@@ -9,7 +9,7 @@
         "description": "[latest development version] A simple command line tool, taking inspiration from Node's npm, to manage Maven dependencies for Java projects that are not using build systems like Maven or Gradle. See [Jpm website](https://github.com/codejive/java-jpm)"
       },
       "jvm": {
-        "script-ref": "https://github.com/codejive/java-jvm/blob/main/src/main/java/org/codejive/jvm/Main.java",
+        "script-ref": "org.codejive.jvm:jvm:0.1.0",
         "description": "A command line tool that helps you install and manage multiple Java versions on your machine. See [Jvm website](https://github.com/codejive/java-jvm)"
       },
       "jvm-latest": {
